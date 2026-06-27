@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a8a11e7a44f104190f4c49fe633dbc, type: 3}
+  m_Name: DefaultGameDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::GameDatabase
+  items:
+  - {fileID: 11400000, guid: 4cb54289900fd6b4096c1d6b971da0e6, type: 2}
+  - {fileID: 11400000, guid: 9dc1fea6dbe1c1a4cb691c3677e9bc90, type: 2}
+  - {fileID: 11400000, guid: 304f46ce4c8930e4e927cfe64879808d, type: 2}
+  - {fileID: 11400000, guid: 9ee61400851494d4cbb2aeb463fef23e, type: 2}
+  placeables:
+  - {fileID: 11400000, guid: e8d6c82d87d03504b8c90d8744aa55ad, type: 2}
+  tileObjects:
+  - {fileID: 11400000, guid: 2705babeca48ed24eb4e743690e0dd3b, type: 2}
+  - {fileID: 11400000, guid: ad094b19d3331c74a86858766c38b9af, type: 2}
+  tiles:
+  - {fileID: 11400000, guid: 94c2351fbd2733247b72a6f7297c5786, type: 2}
+  - {fileID: 11400000, guid: 6cbf7cde52a05014cb22b3ded527ff40, type: 2}
+  - {fileID: 11400000, guid: 06a1688ddcef995468a2922e228a8ec9, type: 2}
+  tileMapping:
+  - tile: {fileID: 11400000, guid: ee1f6c0a61282a541b1ff56da61d2f12, type: 2}
+    type: 0
+  - tile: {fileID: 11400000, guid: 09ed385fc8996db4497a0f5df391f5c2, type: 2}
+    type: 1
+  - tile: {fileID: 11400000, guid: 0e08d83e26c1b8744aa11364fb788c4d, type: 2}
+    type: 4
+  crops:
+  - {fileID: 11400000, guid: e8f1130c52dd08143a86a55ede7873bf, type: 2}
+  - {fileID: 11400000, guid: 8a5b5855055b4eb4ea66f75c2e7025dd, type: 2}

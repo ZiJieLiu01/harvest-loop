@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179bc693fe97cf04880c24d004efa493, type: 3}
+  m_Name: SellBin
+  m_EditorClassIdentifier: Assembly-CSharp::TileObjectData
+  id: sellbin_tileobject
+  displayName: SellBin
+  maxHealth: 999
+  blocksMovement: 1
+  spawnableTile: 5
+  sprite: {fileID: 826535257128478662, guid: 647ce4ed80bef57459e462846390f324, type: 3}
+  spriteOffset: {x: 0, y: 0}
+  requiredTool: 0
+  dropItem: {fileID: 0}
+  tileObjectPrefab: {fileID: 9205409667470402761, guid: 616b1e08825efcf47beb303c16a8cc26, type: 3}

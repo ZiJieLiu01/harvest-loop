@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179bc693fe97cf04880c24d004efa493, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier: Assembly-CSharp::TileObjectData
+  id: bed_tileobject
+  displayName: Bed
+  maxHealth: 1
+  blocksMovement: 1
+  spawnableTile: 5
+  sprite: {fileID: -2671596989667604426, guid: dd4592e5ae5b4fc4e8ef33ff2ee8df95, type: 3}
+  spriteOffset: {x: 0, y: 0.2}
+  requiredTool: 1
+  dropItem: {fileID: 11400000, guid: e8d6c82d87d03504b8c90d8744aa55ad, type: 2}
+  tileObjectPrefab: {fileID: -20795067224474871, guid: f7b64e2b322452f489072b2a92bcd0e5, type: 3}

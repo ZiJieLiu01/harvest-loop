@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 369b0ea0ecac9bd48b9e2b91922faab7, type: 3}
+  m_Name: Tilled
+  m_EditorClassIdentifier: Assembly-CSharp::TileData
+  id: tilled_tile
+  displayName: Tilled Dirt
+  tileBase: {fileID: 11400000, guid: 0e08d83e26c1b8744aa11364fb788c4d, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97664d1693c91904caa1ae1bbdd64850, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier: Assembly-CSharp::PlaceableData
+  id: bed
+  displayName: Bed
+  icon: {fileID: -2671596989667604426, guid: dd4592e5ae5b4fc4e8ef33ff2ee8df95, type: 3}
+  maxStack: 1
+  selectedItemPreviewPrefab: {fileID: 8231748828997567523, guid: 3467574f11795d54cb026970362e9d8c, type: 3}
+  worthAmount: 1
+  sellable: 0
+  consumeOnUse: 1
+  blocksMovement: 1
+  dropItem: {fileID: 11400000}
+  tileObjectData: {fileID: 11400000, guid: c2700e4892d1f3443a8d4c71c862f2d7, type: 2}
